@@ -28,4 +28,3 @@ function introduce(name = "Garv", city = "Bharatpur") {
 introduce();
 introduce("Nidhish","Village")
 introduce(undefined,"City")
-introduce("undefined","City")
